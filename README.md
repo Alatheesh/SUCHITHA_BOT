@@ -121,11 +121,11 @@ Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 [![Forks](https://img.shields.io/github/forks/Alatheesh/SUCHITHA_BOT?style=flat-square&color=blue)](https://github.com/Alatheesh/SUCHITHA_BOT/fork)
 
-[![Size](https://img.shields.io/github/repo-size/Alatheesh/SUCHITHA_BOT?style=flat-square&color=green)](https://github.com/Alatheesh/SUCHITHA_BOT)   
+[![Size](https://img.shields.io/github/repo-size/Alatheesh/SUCHITHA_BOT?style=flat-square&color=red)](https://github.com/Alatheesh/SUCHITHA_BOT)   
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.Alatheesh/SUCHITHA_BOT)   
 
-[![Contributors](https://img.shields.io/github/contributors/Alatheesh/SUCHITHA_BOT?style=flat-square&color=green)](https://github.com/Alatheesh/SUCHITHA_BOT/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/Alatheesh/SUCHITHA_BOT?style=flat-circle&color=green)](https://github.com/Alatheesh/SUCHITHA_BOT/graphs/contributors)
 
 [![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Alatheesh/SUCHITHA_BOT/blob/main/LICENSE)
 
