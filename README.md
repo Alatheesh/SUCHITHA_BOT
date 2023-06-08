@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 
-  <img src="https://te.legra.ph/file/1be62017307469031ac3a.jpg" alt="SRXMOVIES Logo">
+  <img src="https://graph.org/file/29ca462f65e903943464a.jpg" alt="SRXMOVIES Logo">
 
 </p>
 
