@@ -2,6 +2,12 @@
 <p align="center">
   <img src="Logo/SUCHITHA_BOT.jpeg" alt="NTM BOTS">
 </p>
+<p align="center">
+
+  <img src="https://te.legra.ph/file/1be62017307469031ac3a.jpg" alt="SRXMOVIES Logo">
+
+</p>
+
 <h1 align="center">
   <b> 𝗦𝗨𝗖𝗛𝗜𝗧𝗛𝗔_𝗕𝗢𝗧</b>
 </h1>
