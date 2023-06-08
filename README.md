@@ -4,7 +4,7 @@
 </p>
 <p align="center">
 
-  <img src="https://graph.org/file/29ca462f65e903943464a.jpg" alt="SRXMOVIES Logo">
+  <img src="https://graph.org/file/29ca462f65e903943464a.jpg" alt="SUCHITHA logo">
 
 </p>
 
