@@ -117,9 +117,9 @@ funcmd - to get the fun commands to play with the bot .
 Licensed under [GNU AGPL 2.0.](https://github.com/EvamariaTG/evamaria/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-[![Stars](https://img.shields.io/github/stars/Alatheesh/SUCHITHA_BOT?style=flat-square&color=yellow)](https://github.com/Alatheesh/SUCHITHA_BOT/stargazers)
+[![Stars](https://img.shields.io/github/stars/Alatheesh/SUCHITHA_BOT?style=flat-square&color=critical)](https://github.com/Alatheesh/SUCHITHA_BOT/stargazers)
 
-[![Forks](https://img.shields.io/github/forks/Alatheesh/SUCHITHA_BOT?style=flat-square&color=orange)](https://github.com/Alatheesh/SUCHITHA_BOT/fork)
+[![Forks](https://img.shields.io/github/forks/Alatheesh/SUCHITHA_BOT?style=flat-square&color=blue)](https://github.com/Alatheesh/SUCHITHA_BOT/fork)
 
 [![Size](https://img.shields.io/github/repo-size/Alatheesh/SUCHITHA_BOT?style=flat-square&color=green)](https://github.com/Alatheesh/SUCHITHA_BOT)   
 
