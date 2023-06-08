@@ -13,7 +13,7 @@
 </h1>
 
 ## Demo Bot
-* [![DEMO BOT](https://img.shields.io/static/v1?label=DEMO&message=BOT&color=yellow)](https://t.me/SUCHITHA1BOT)
+* [![DEMO BOT](https://img.shields.io/static/v1?label=𝗗𝗘𝗠𝗢&message=𝗕𝗢𝗧&color=yellow)](https://t.me/SUCHITHA1BOT)
 
 ## Features
 
