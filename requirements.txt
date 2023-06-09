@@ -40,5 +40,4 @@ ujson
 wget
 pytz
 
-#---jokes---#
-pyjokes==0.6.0
+
