@@ -520,13 +520,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
     elif query.data == "start":                        
         buttons = [[
-            InlineKeyboardButton("➕️ 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 ➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
+            InlineKeyboardButton("➕️🄰🄳🄳 🄼🄴 🅃🄾 🅈🄾🅄🅁 🄶🅁🄾🅄🄿➕️", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
-            InlineKeyboardButton("🔍 𝚂𝙴𝙰𝚁𝙲𝙷 🔍", switch_inline_query_current_chat=''), 
-            InlineKeyboardButton("📢 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 📢", url="https://t.me/llathu63035")
+            InlineKeyboardButton("🔍🤑𝙄𝙉𝙇𝙄𝙉𝙀🤑🔍", switch_inline_query_current_chat=''), 
+            InlineKeyboardButton("⚡𝕄𝔸𝕀ℕ⚡", url="https://t.me/llathu63035")
             ],[
-            InlineKeyboardButton("ℹ️ 𝙷𝙴𝙻𝙿 ℹ️", callback_data="help"),
-            InlineKeyboardButton("💫 𝙰𝙱𝙾𝚄𝚃 💫", callback_data="about")
+            InlineKeyboardButton("🥳𝔼𝕏𝕋ℝ𝔸🥳", callback_data="help"),
+            InlineKeyboardButton("😇𝗞𝗡𝗢𝗪 𝗠𝗘😇", callback_data="about")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.edit_message_media(
@@ -614,7 +614,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('SOURCE CODE', url='https://t.me/llathu63035')
+            InlineKeyboardButton('SOURCE CODE', url='https://github.com/Alatheesh/SUCHITHA_BOT')
             ],[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
         ]]
