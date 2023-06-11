@@ -45,6 +45,8 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("🥳𝔼𝕏𝕋ℝ𝔸🥳", callback_data="help"),
             InlineKeyboardButton("😇𝗞𝗡𝗢𝗪 𝗠𝗘😇", callback_data="about")
+            ],[
+            InlineKeyboardButton("😎😎🇴 🇼 🇳 🇪 🇷😎😎", url=f"https://t.me/TG_LATHEESH")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
@@ -95,6 +97,8 @@ async def start(client, message):
             ],[      
             InlineKeyboardButton("🥳𝔼𝕏𝕋ℝ𝔸🥳", callback_data="help"),
             InlineKeyboardButton("😇𝗞𝗡𝗢𝗪 𝗠𝗘😇", callback_data="about")
+            ],[
+            InlineKeyboardButton("😎😎🇴 🇼 🇳 🇪 🇷😎😎", url=f"https://t.me/TG_LATHEESH")
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
