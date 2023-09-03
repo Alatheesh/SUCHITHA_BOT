@@ -14,7 +14,7 @@ stories = [
 "She was a scientist, and he was a journalist. They met at a conference and spent the whole weekend discussing groundbreaking discoveries and the power of storytelling. They now have a life filled with intellectual stimulation and endless love for each other."
     # Add more stories here
 ]
-@Client.on_message(filters.command("lovestory"))
+@Client.on_message(filters.command("lvstry"))
 async def suchitha_command_handler(client: Client, message: Message):
     # Choose a random story from the list
     story = random.choice(stories)
