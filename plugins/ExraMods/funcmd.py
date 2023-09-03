@@ -10,7 +10,7 @@ from pyrogram.types import Message
 async def funcmd(_, message):
     hm = await message.reply_text("GETTING ALL MY FUN COMMANDS READY................")
     await asyncio.sleep(5)
-    await hm.edit("/iloveu - TO PROPOSE THE BOT.\n\n/suchitha - TO KNOW ABOUT THE BOT. \n\n/botmood - TO KNOW THE BOT MOOD.\n\n/lvstry - TO GET A SMALL LOVE STORY FOR TIME PASS.\n\n  ")
+    await hm.edit("/iloveu - TO PROPOSE THE BOT.\n\n/suchitha - TO KNOW ABOUT THE BOT. \n\n/botmood - TO KNOW THE BOT MOOD.\n\n/lvstry - TO GET A SMALL LOVE STORY FOR TIME PASS.\n\n/chucknorris - USE THIS COMMAND FOR CHUCK NORRIS JOKES 😉")
 
    emojis = ["😀 Grinning", "😃 Smiling", "😄 Grinning With Smiling Eyes",
           "😁 Beaming With Smiling Eyes", "😆 Grinning Squinting",
