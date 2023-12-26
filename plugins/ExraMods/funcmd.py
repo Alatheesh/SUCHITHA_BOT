@@ -12,7 +12,7 @@ async def funcmd(_, message):
     await asyncio.sleep(5)
     await hm.edit("/iloveu - TO PROPOSE THE BOT.\n\n/suchitha - TO KNOW ABOUT THE BOT. \n\n/botmood - TO KNOW THE BOT MOOD.\n\n/lvstry - TO GET A SMALL LOVE STORY FOR TIME PASS.\n\n/chucknorris - USE THIS COMMAND FOR CHUCK NORRIS JOKES 😉")
 
-   emojis = ["😀 Grinning", "😃 Smiling", "😄 Grinning With Smiling Eyes",
+emojis = ["😀 Grinning", "😃 Smiling", "😄 Grinning With Smiling Eyes",
           "😁 Beaming With Smiling Eyes", "😆 Grinning Squinting",
           "😅 Grinning With Sweat", "😂 Tears of Joy",
           "🤣 Rolling on the Floor Laughing", "☺️ Smiling",
